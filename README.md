@@ -1,10 +1,6 @@
 # Comparative-Analysis-of-YOLOv12-and-RF-DETR-for-Real-Time-Crowd-Counting
 
-Tuyệt vời\! Dưới đây là một bản README.md chi tiết cho dự án "Comparative Analysis of YOLOv12 and RF-DETR for Real-Time Crowd Counting" của bạn, dựa trên báo cáo bạn đã cung cấp.
 
------
-
-# Comparative Analysis of YOLOv12 and RF-DETR for Real-Time Crowd Counting
 
 ## Project Overview
 
